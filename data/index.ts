@@ -19,7 +19,7 @@ export const gridItems = [
   {
     id: 2,
     title: "Adaptable & Collaborative 🤝",
-    description: "I work effectively across time zones and enjoy collaborating with teams & clients.",
+    description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
     titleClassName: "justify-start",
@@ -29,7 +29,7 @@ export const gridItems = [
   {
     id: 3,
     title: "My Tech Stack 🛠️",
-    description: "MERN | Docker | CI/CD | Kubernetes | AWS | Google Cloud",
+    description: "Learning new Skills...",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
     titleClassName: "justify-center",
